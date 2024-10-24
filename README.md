@@ -33,27 +33,27 @@ Most of the code I've written tells a story, so I made an effort to keep the REA
 I have made every effort to ensure the application is platform-agnostic, packaging everything into a Docker container. However, you can run the components separately on your machine without Docker by following the steps below.
 
 **Frontend**  
-```bash
+```
 cd frontend/
 npm install
 ```
 
 **Backend**  
 If you haven’t installed Poetry yet, please do so first:
-```bash
+```
 python3 -m venv $VENV_PATH
 $VENV_PATH/bin/pip install -U pip setuptools
 $VENV_PATH/bin/pip install poetry
 ```
 Next, create a virtual environment and install dependencies:
-```bash
+```
 cd backend/
 poetry install
 ```
 
 **Database**  
 After installing Poetry, execute the following command to set up the initial data in your Postgres instance. Make sure to configure the connection credentials in the `.env` file.
-```bash
+```
 docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
 ```
 
@@ -61,17 +61,17 @@ docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:54
 Assuming the above installation process was successful, you can run the following commands:
 
 **Frontend**  
-```bash
+```
 npm run dev
 ```
 
 **Backend**  
-```bash
+```
 poetry run python main.py --dev
 ```
 
 **Database**  
-```bash
+```
 docker run --name some-postgres -e POSTGRES_PASSWORD=mysecretpassword -p 5432:5432 -d postgres
 ```
 
