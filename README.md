@@ -3,7 +3,7 @@
 Zeotap | Software Engineer Intern | Assignment | Application 1
 
 ### Applicant Introduction  
-Hello! I'm Subhodeep Manna, a Full-Stack Developer and AI enthusiast proficient in React, Next.js, Django, and machine learning. Currently, I'm engaged in projects such as a College Directory App and a Seat Booking System, and I'm always excited to learn and innovate! [LinkedIn](#).
+Hello! I'm Subhodeep Manna, a Full-Stack Developer and AI enthusiast proficient in React, Next.js, Django, and machine learning. Currently, I'm engaged in projects such as a College Directory App and a Seat Booking System, and I'm always excited to learn and innovate! 
 
 ### Table of Contents  
 - Introduction  
@@ -223,6 +223,3 @@ I'd appreciate any feedback you may have regarding the code, approaches, or over
 ### Conclusion  
 Thank you for taking the time to review my submission. I'm eager to hear your thoughts!
 
----
-
-Feel free to modify any section further or let me know if you need additional changes!
