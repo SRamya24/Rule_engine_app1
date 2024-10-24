@@ -1,6 +1,3 @@
-Here’s a revised version of your text with changes to wording and phrasing while maintaining the original meaning:
-
----
 
 **Application 1: Rule Engine with AST**  
 Zeotap | Software Engineer Intern | Assignment | Application 1
