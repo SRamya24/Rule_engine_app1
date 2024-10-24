@@ -221,5 +221,4 @@ To foster creativity, I wrote down every thought that crossed my mind. Following
 I'd appreciate any feedback you may have regarding the code, approaches, or overall design.
 
 ### Conclusion  
-Thank you for taking the time to review my submission. I'm eager to hear your thoughts!
-
+Thank you for taking the time to review my submission.
